@@ -1,0 +1,12 @@
+ .app{
+  background-color: #111;
+
+  
+ }
+ .app::-webkit-scrollbar{
+    display: none;
+ }
+ .app{
+   width: 100%;
+   height: 100%;
+ }
